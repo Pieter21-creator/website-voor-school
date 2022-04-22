@@ -7,8 +7,8 @@ const Hero = () => {
             <div className='content'>
                 <p></p>
                 <p></p>
-                <p>5 jaar</p>
-                <p>Plan</p>
+                <p>ICT</p>
+                <p>Portfolio</p>
             </div>
         </div>
     )

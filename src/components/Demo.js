@@ -6,9 +6,9 @@ const Demo = () => {
         <div className='demo' id='demo'>
             <div className='container'>
                 <div className='col-1'>
-                    <p>NiKS,</p>
-                    <p>nOG NISK</p>
-                    <p>NOG MAAL NIKS</p>
+                    <p>Maikel de groot</p>
+                    <p>Hij heeft net de opleiding Export IT Systems en devices afgerond</p>
+                    <p></p>
                     
                 </div>
                 <div className='col-2'>

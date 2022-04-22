@@ -10,8 +10,9 @@ const About = () => {
                 <div className='col-2'>
                     <h2>Over mij</h2>
                     <span className='line'></span>
-                    <p>hi.</p>
+                    <p>hi</p>
                     <p>Ik ben pieter</p>
+                    <p>Ik doe nu de opleiding ict medewerker</p>
                 </div>
             </div>
         </div>
